@@ -2323,7 +2323,7 @@
       10294: function (e) {
         "use strict";
         e.exports = JSON.parse(
-          '{"geneticNFT":"Genetische.NFT","worldview":"Weltanschauung","promotion":"Empfehle","glory":"Ruhm","MintNFT":"NFT Mint","connect":"Verbinden","mine":"Profil","mobileApp":"Mobile App","cookiePolicy":"Cookie-Richtlinie","AffiliaterLogin":"Affiliate-Anmeldung","termsOfUse":"Nutzungsbedingungen","transactionRules":"Transaktionsregeln","paymentPolicy":"Empfehle","footerText":"© BEART Web3. 2019-2024. Wir lieben unsere Nutzer","scanWithApp":"Mit BeArt App scannen","connectBy":"Verbinden mit","beartLogin":"Bitget Wallet","metamask":"Metamask","walletConnect":"Wallet Connect","gnftInnovation":"GNFT steht für eine bahnbrechende Innovation, die unsere scharfe Beobachtung der physischen Welt und tiefgründige Betrachtung der virtuellen Welt widerspiegelt.","quoteAuthor":"——BEART","showcaseMessage":"Wir freuen uns darauf, es Ihnen bei unserem nächsten Wiedersehen zu präsentieren."}'
+          '{"geneticNFT":"Genetische.NFT","worldview":"Weltanschauung","promotion":"Empfehle","glory":"Ruhm","MintNFT":"NFT Mint","connect":"Verbinden","mine":"Profil","mobileApp":"Mobile App","cookiePolicy":"Cookie-Richtlinie","AffiliaterLogin":"Affiliate-Anmeldung","termsOfUse":"Nutzungsbedingungen","transactionRules":"Transaktionsregeln","paymentPolicy":"Empfehle","footerText":"© BEART Web3. 2025. Wir lieben unsere Nutzer","scanWithApp":"Mit BeArt App scannen","connectBy":"Verbinden mit","beartLogin":"Bitget Wallet","metamask":"Metamask","walletConnect":"Wallet Connect","gnftInnovation":"GNFT steht für eine bahnbrechende Innovation, die unsere scharfe Beobachtung der physischen Welt und tiefgründige Betrachtung der virtuellen Welt widerspiegelt.","quoteAuthor":"——BEART","showcaseMessage":"Wir freuen uns darauf, es Ihnen bei unserem nächsten Wiedersehen zu präsentieren."}'
         );
       },
       22455: function (e) {
@@ -2369,7 +2369,7 @@
       42622: function (e) {
         "use strict";
         e.exports = JSON.parse(
-          '{"geneticNFT":"Genetic.NFT","worldview":"Worldview","promotion":"Referral","glory":"Glory","connect":"Connect","MintNFT":"NFT Mint","mine":"Profile","mobileApp":"Mobile App","cookiePolicy":"Cookie Policy","AffiliaterLogin":"Affiliater Login","termsOfUse":"Terms of Use","transactionRules":"Transaction Rules","paymentPolicy":"Referral","footerText":"© BEART Web3. 2019-2024. We love our users","scanWithApp":"Scan with BeArt App","connectBy":"Connect by","beartLogin":"Bitget Wallet","metamask":"Metamask","walletConnect":"Wallet Connect","gnftInnovation":"GNFT represents a groundbreaking innovation, reflecting our keen observation of the physical world and profound contemplation of the virtual world.","quoteAuthor":"——BEART","showcaseMessage":"We look forward to showcasing it to you when we meet again."}'
+          '{"geneticNFT":"Genetic.NFT","worldview":"Worldview","promotion":"Referral","glory":"Glory","connect":"Connect","MintNFT":"NFT Mint","mine":"Profile","mobileApp":"Mobile App","cookiePolicy":"Cookie Policy","AffiliaterLogin":"Affiliater Login","termsOfUse":"Terms of Use","transactionRules":"Transaction Rules","paymentPolicy":"Referral","footerText":"© BEART Web3. 2025. We love our users","scanWithApp":"Scan with BeArt App","connectBy":"Connect by","beartLogin":"Bitget Wallet","metamask":"Metamask","walletConnect":"Wallet Connect","gnftInnovation":"GNFT represents a groundbreaking innovation, reflecting our keen observation of the physical world and profound contemplation of the virtual world.","quoteAuthor":"——BEART","showcaseMessage":"We look forward to showcasing it to you when we meet again."}'
         );
       },
       52319: function (e) {
@@ -2415,7 +2415,7 @@
       3311: function (e) {
         "use strict";
         e.exports = JSON.parse(
-          '{"geneticNFT":"Génétique.NFT","worldview":"Vision du monde","promotion":"Référez","glory":"Gloire","MintNFT":"NFT Mint","connect":"Connecter","mine":"Profil","mobileApp":"Application Mobile","cookiePolicy":"Politique de Cookie","AffiliaterLogin":"Connexion Affilié","termsOfUse":"Conditions d\'Utilisation","transactionRules":"Règles de Transaction","paymentPolicy":"Référez","footerText":"© BEART Web3. 2019-2024. Nous aimons nos utilisateurs","scanWithApp":"Scannez avec l\'application BeArt","connectBy":"Connectez par","beartLogin":"Bitget Wallet","metamask":"Metamask","walletConnect":"Wallet Connect","gnftInnovation":"GNFT représente une innovation révolutionnaire, reflétant notre observation attentive du monde physique et une profonde réflexion sur le monde virtuel.","quoteAuthor":"——BEART","showcaseMessage":"Nous avons hâte de vous le présenter lors de nos prochaines retrouvailles."}'
+          '{"geneticNFT":"Génétique.NFT","worldview":"Vision du monde","promotion":"Référez","glory":"Gloire","MintNFT":"NFT Mint","connect":"Connecter","mine":"Profil","mobileApp":"Application Mobile","cookiePolicy":"Politique de Cookie","AffiliaterLogin":"Connexion Affilié","termsOfUse":"Conditions d\'Utilisation","transactionRules":"Règles de Transaction","paymentPolicy":"Référez","footerText":"© BEART Web3. 2025. Nous aimons nos utilisateurs","scanWithApp":"Scannez avec l\'application BeArt","connectBy":"Connectez par","beartLogin":"Bitget Wallet","metamask":"Metamask","walletConnect":"Wallet Connect","gnftInnovation":"GNFT représente une innovation révolutionnaire, reflétant notre observation attentive du monde physique et une profonde réflexion sur le monde virtuel.","quoteAuthor":"——BEART","showcaseMessage":"Nous avons hâte de vous le présenter lors de nos prochaines retrouvailles."}'
         );
       },
       7344: function (e) {
@@ -2461,7 +2461,7 @@
       16788: function (e) {
         "use strict";
         e.exports = JSON.parse(
-          '{"geneticNFT":"遺伝的な.NFT","worldview":"世界観","promotion":"プロモーション","glory":"栄光","MintNFT":"NFT Mint","connect":"接続する","mine":"Profile","mobileApp":"モバイルアプリ","cookiePolicy":"クッキーポリシー","AffiliaterLogin":"アフィリエイターログイン","termsOfUse":"利用規約","transactionRules":"取引規則","paymentPolicy":"プロモーション","footerText":"© BEART Web3. 2019-2024. 我々は私たちのユーザーを愛しています","scanWithApp":"BeArt アプリでスキャン","connectBy":"接続方法","beartLogin":"Bitget Wallet","metamask":"Metamask","walletConnect":"Wallet Connect","gnftInnovation":"GNFTは、物理的世界に対する鋭い観察と仮想世界に対する深い思索を反映した、画期的な革新を表しています。","quoteAuthor":"——BEART","showcaseMessage":"次にお会いするときに、皆さんにご紹介できることを楽しみにしています。"}'
+          '{"geneticNFT":"遺伝的な.NFT","worldview":"世界観","promotion":"プロモーション","glory":"栄光","MintNFT":"NFT Mint","connect":"接続する","mine":"Profile","mobileApp":"モバイルアプリ","cookiePolicy":"クッキーポリシー","AffiliaterLogin":"アフィリエイターログイン","termsOfUse":"利用規約","transactionRules":"取引規則","paymentPolicy":"プロモーション","footerText":"© BEART Web3. 2025. 我々は私たちのユーザーを愛しています","scanWithApp":"BeArt アプリでスキャン","connectBy":"接続方法","beartLogin":"Bitget Wallet","metamask":"Metamask","walletConnect":"Wallet Connect","gnftInnovation":"GNFTは、物理的世界に対する鋭い観察と仮想世界に対する深い思索を反映した、画期的な革新を表しています。","quoteAuthor":"——BEART","showcaseMessage":"次にお会いするときに、皆さんにご紹介できることを楽しみにしています。"}'
         );
       },
       46553: function (e) {
@@ -2507,7 +2507,7 @@
       9465: function (e) {
         "use strict";
         e.exports = JSON.parse(
-          '{"geneticNFT":"基因.NFT","worldview":"世界觀","promotion":"引薦","glory":"榮耀","MintNFT":"NFT Mint","connect":"連接","mine":"我的","mobileApp":"移動應用","cookiePolicy":"Cookie 政策","AffiliaterLogin":"合作夥伴登入","termsOfUse":"使用條款","transactionRules":"交易規則","paymentPolicy":"引薦","footerText":"© BEART Web3. 2019-2024. 我們熱愛我們的用戶","scanWithApp":"使用 BeArt 應用掃描","connectBy":"連接方式","beartLogin":"Bitget Wallet","metamask":"Metamask","walletConnect":"Wallet Connect","gnftInnovation":"GNFT代表了一項開創性的創新，反映了我們對物理世界的敏銳觀察和對虛擬世界的深刻思考。","quoteAuthor":"——BEART","showcaseMessage":"我們期待在下次見面時向您展示。"}'
+          '{"geneticNFT":"基因.NFT","worldview":"世界觀","promotion":"引薦","glory":"榮耀","MintNFT":"NFT Mint","connect":"連接","mine":"我的","mobileApp":"移動應用","cookiePolicy":"Cookie 政策","AffiliaterLogin":"合作夥伴登入","termsOfUse":"使用條款","transactionRules":"交易規則","paymentPolicy":"引薦","footerText":"© BEART Web3. 2025. 我們熱愛我們的用戶","scanWithApp":"使用 BeArt 應用掃描","connectBy":"連接方式","beartLogin":"Bitget Wallet","metamask":"Metamask","walletConnect":"Wallet Connect","gnftInnovation":"GNFT代表了一項開創性的創新，反映了我們對物理世界的敏銳觀察和對虛擬世界的深刻思考。","quoteAuthor":"——BEART","showcaseMessage":"我們期待在下次見面時向您展示。"}'
         );
       },
       67190: function (e) {

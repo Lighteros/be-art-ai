@@ -5377,7 +5377,7 @@
         o = { key: 0, class: "circle-go-top" },
         u = { key: 1, class: "circle-logo" },
         h = (0, n.Fv)(
-          '<div class="footer-action" data-v-1766a338><div class="link" data-v-1766a338><div class="action-link" data-v-1766a338>Cookie Policy</div><div class="action-link" data-v-1766a338>Affiliater Login</div><div class="action-link" data-v-1766a338>Terms of Use</div><div class="action-link" data-v-1766a338>Transaction Rules</div></div><div class="action-copyright" data-v-1766a338> © BeArt RWA. 2019-2024. We love our users! </div></div>',
+          '<div class="footer-action" data-v-1766a338><div class="link" data-v-1766a338><div class="action-link" data-v-1766a338>Cookie Policy</div><div class="action-link" data-v-1766a338>Affiliater Login</div><div class="action-link" data-v-1766a338>Terms of Use</div><div class="action-link" data-v-1766a338>Transaction Rules</div></div><div class="action-copyright" data-v-1766a338> © BeArt RWA. 205. We love our users! </div></div>',
           1
         );
       var l = {
