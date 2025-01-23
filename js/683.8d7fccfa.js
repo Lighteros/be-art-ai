@@ -5844,8 +5844,8 @@
         Bt = r.p + "img/Twitter_black.7dcf863d.svg",
         Ut = r.p + "img/Medium_white.23dfb71c.svg",
         kt = r.p + "img/Medium_black.5d4a5993.svg",
-        Lt = r.p + "img/Telegram_white.86f23b15.svg",
-        Tt = r.p + "img/Telegram_black.ea808136.svg",
+        Lt = r.p + "img/telegram.1e7ed13e.svg",
+        Tt = r.p + "img/telegram.1e7ed13e.svg",
         St = r.p + "img/About_us_white.d7be3148.svg",
         Rt = r.p + "img/About_us_black.6c81f7f1.svg",
         Mt = r.p + "img/Wiki_white.7e455018.svg",
@@ -5854,46 +5854,15 @@
         Ot = r.p + "img/Gallery_white.1bc8d946.svg",
         Nt = (r.p, r.p + "img/WhatsAppIcon.4e6e847c.svg");
       const $t = [
-        { name: "Home", router: "/Home" },
-        { name: "Purchase", router: "/Purchase" },
         {
-          name: "More",
-          list: [
-            {
-              defaultIcon: St,
-              hoverIcon: Rt,
-              title: "About us",
-              router: "/glory",
-              hover: !1,
-              available: !0,
-            },
-            {
-              defaultIcon: Mt,
-              hoverIcon: Ct,
-              title: "Wiki",
-              link: "https://beart-pdd.github.io/docs",
-              hover: !1,
-              available: !0,
-            },
-            {
-              defaultIcon: Ot,
-              hoverIcon: xt,
-              title: "RWA Gallery",
-              router: "/Gallery",
-              hover: !1,
-              available: !0,
-            },
-          ],
-        },
-        {
-          name: "Social",
+          name: "Social Links",
           show: !1,
           list: [
             {
               defaultIcon: It,
               hoverIcon: Bt,
               title: "Twitter",
-              link: "https://twitter.com/BeArt_RWA",
+              link: "https://twitter.com/BeArtAI_ETH",
               hover: !1,
               available: !0,
             },
@@ -5901,7 +5870,7 @@
               defaultIcon: Lt,
               hoverIcon: Tt,
               title: "Telegram",
-              link: "https://t.me/+iWxNKmUr3YE2OWI1",
+              link: "https://t.me/BeArtAI_ETH",
               hover: !1,
               available: !0,
             },

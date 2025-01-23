@@ -259,13 +259,13 @@
 .screen-link .icon3[data-v-23641a21] {
   width: 43.898px;
   height: 37.46px;
-  background-image: url(/img/frame.a9a9c6c4.svg);
+  background-image: url(/img/logo_dt.png);
   background-size: cover;
 }
 .screen-link .icon4[data-v-23641a21] {
   width: 44.195px;
   height: 44.195px;
-  background-image: url(/img/intersect.3e7ccc89.svg);
+  background-image: url(/img/logo_ds.png);
   background-size: cover;
 }
 @media (min-width: 1800px) {
@@ -499,7 +499,7 @@
   background-image: url(/img/cardIcon2.f11f33b4.svg);
 }
 .third .third-main .main-card .icon3[data-v-0ed398ba] {
-  background-image: url(/img/cardIcon3.a987cffa.svg);
+  background-image: url(/img/logo_dt.png);
 }
 .third .third-main .main-card .icon4[data-v-0ed398ba] {
   background-image: url(/img/cardIcon4.7a90f410.svg);
@@ -755,7 +755,7 @@
   }
 }
 .fourth .fourth-card .card-item .icon3[data-v-447f60a7] {
-  background-image: url(/img/fourthIcon3.72ea1b23.svg);
+  background-image: url(/img/logo_dt.png);
 }
 .fourth .fourth-card .card-item .item-text[data-v-447f60a7] {
   color: #fff;

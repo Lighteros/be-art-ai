@@ -105,7 +105,7 @@
                             (0, p.R1)(f.eJ) && (0, p.R1)(f.eJ)(...t)),
                         onMouseenter: r,
                       },
-                      [_, (0, i.eW)(" Discord ")],
+                      [_, (0, i.eW)(" Dextools ")],
                       32
                     ),
                     (0, i.Lk)(
@@ -118,7 +118,7 @@
                             (0, p.R1)(f.h_) && (0, p.R1)(f.h_)(...t)),
                         onMouseenter: r,
                       },
-                      [M, (0, i.eW)(" Reddit ")],
+                      [M, (0, i.eW)(" Dexscreener ")],
                       32
                     ),
                   ]),

@@ -117,22 +117,7 @@
                   return (0, s.eP)({ text: (0, r.lK)(t) }), Promise.reject(e);
                 }
               }
-            } catch (T) {
-              if (
-                (g && l.nk.error(T.body?.message || "Server error"),
-                401 !== T.status)
-              )
-                return Promise.reject(T);
-              {
-                const { open: t, setRetry: n } = (0, o.A)(),
-                  { disconnect: i } = (0, u.vT)();
-                await i(),
-                  c.A.commit("removeUserInfo"),
-                  c.A.commit("removeToken"),
-                  t(),
-                  n(e);
-              }
-            }
+            } catch (T) { }
           };
         var f = m;
         class h {
@@ -2150,19 +2135,19 @@
               });
           },
           ne = () => {
-            window.open("https://twitter.com/BeArt_RWA");
+            window.open("https://twitter.com/BeArtAI_ETH");
           },
           ie = () => {
-            window.open("https://t.me/+iWxNKmUr3YE2OWI1");
+            window.open("https://t.me/BeArtAI_ETH");
           },
           re = () => {
-            window.open("https://medium.com/@beartrwa");
+            window.open("https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000");
           },
           ae = () => {
             window.open("https://discord.gg/tuY4dt6HwF");
           },
           se = () => {
-            window.open("https://www.reddit.com/r/BeArtLounge");
+            window.open("https://dexscreener.com/ethereum/0x0123456789");
           };
         function oe(e, t) {
           return e * Math.pow(10, t);
