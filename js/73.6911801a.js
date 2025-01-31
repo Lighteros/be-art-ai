@@ -383,8 +383,8 @@
               it,
               (0, i.bF)(
                 J.A,
-                { info: "", class: "fourth-btn", onClick: window.open("https://app.beartai.org", "_blank"), disabled: "" },
-                { default: (0, i.k6)(() => [(0, i.eW)(" To Purchase ")]), _: 1 }
+                { info: "", class: "fourth-btn", onClick: (e) => window.open("https://app.beartai.org", "_blank") },
+                { default: (0, i.k6)(() => [(0, i.eW)(" Launch App ")]), _: 1 }
               ),
               rt,
             ])
