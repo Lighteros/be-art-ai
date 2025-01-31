@@ -5725,11 +5725,11 @@
                               ref_key: "animateButtonRef",
                               ref: z,
                               class: "connect nav",
-                              onClick: (e) => K(t),
+                              onClick: (e) => window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000", "_blank"),
                             },
                             {
                               default: (0, n.k6)(() => [
-                                (0, n.eW)(" CONNECT "),
+                                (0, n.eW)(" BUY $ART "),
                               ]),
                               _: 2,
                             },
@@ -5873,14 +5873,6 @@
               link: "https://t.me/BeArtAI_ETH",
               hover: !1,
               available: !0,
-            },
-            {
-              defaultIcon: Nt,
-              hoverIcon: Nt,
-              title: "WhatsApp",
-              link: "none",
-              hover: !1,
-              available: !1,
             },
           ],
         },
