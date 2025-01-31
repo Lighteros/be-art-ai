@@ -2141,13 +2141,13 @@
             window.open("https://t.me/BeArtAI_ETH");
           },
           re = () => {
-            window.open("https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000");
+            window.open("https://www.dextools.io/app/en/ether/pair-explorer/0xB19d2a91033525c5F25781e37844D1231CB90EBf");
           },
           ae = () => {
             window.open("https://discord.gg/tuY4dt6HwF");
           },
           se = () => {
-            window.open("https://dexscreener.com/ethereum/0x0123456789");
+            window.open("https://dexscreener.com/ethereum/0xB19d2a91033525c5F25781e37844D1231CB90EBf");
           };
         function oe(e, t) {
           return e * Math.pow(10, t);

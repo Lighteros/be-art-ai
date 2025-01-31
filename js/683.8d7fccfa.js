@@ -5725,7 +5725,7 @@
                               ref_key: "animateButtonRef",
                               ref: z,
                               class: "connect nav",
-                              onClick: (e) => window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000", "_blank"),
+                              onClick: (e) => window.open("https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xB19d2a91033525c5F25781e37844D1231CB90EBf", "_blank"),
                             },
                             {
                               default: (0, n.k6)(() => [
